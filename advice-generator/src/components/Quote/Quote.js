@@ -3,7 +3,7 @@ import styles from './Quote.module.css';
 import quotes from '../Data';
 
 const Quote = (props) => {
-    const bgcolors = ["#313A49","#B46823","#572525"];
+    const bgcolors = ["#313A49","#B46823","#572525","#006666"];
 
     return (
         <div className={styles.container} style={{backgroundColor: bgcolors[props.bg]}}>

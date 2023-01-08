@@ -8,10 +8,10 @@ const Page = () => {
     const [bgColor, setBgColor] = useState(0);
     function handleClick(){
         setPos((pos+1)%quotes.length);
-        setBgColor((bgColor+1)%3);
+        setBgColor((bgColor+1)%4);
     }
 
-    const bgcolors = ["#001a33","#ff9900","#330000"];
+    const bgcolors = ["#001a33","#ff9900","#330000","#006699"];
 
     return (
         <div className={styles.body} style={{backgroundColor:bgcolors[bgColor]}}>
