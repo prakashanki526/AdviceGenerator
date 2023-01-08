@@ -4,3 +4,17 @@
     width: 100%;
     padding-top: 180px;
 }
+
+.dice{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background-color: aqua;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: 700;
+    margin: auto;
+    box-shadow: 0 0 10px 5px #888888;
+    margin-top: -20px;
+    padding-top: 7px;
+}

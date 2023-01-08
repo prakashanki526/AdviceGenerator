@@ -1,7 +1,7 @@
 .container{
     height: 322px;
     width: 480px;
-    box-shadow:0 0 20px 10px #888888;
+    box-shadow:0 0 20px 5px #888888;
     border-radius: 10px;
     margin: auto;
     background-color: blueviolet;
