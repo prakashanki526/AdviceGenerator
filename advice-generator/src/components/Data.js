@@ -1,0 +1,4 @@
+
+    const quotes = ["The greatest glory in living lies not in never falling, but in rising every time we fall.","If life were predictable it would cease to be life, and be without flavor.","If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.","Spread love everywhere you go. Let no one ever come to you without leaving happier.","It is during our darkest moments that we must focus to see the light.","Do not go where the path may lead, go instead where there is no path and leave a trail.","Don't judge each day by the harvest you reap but by the seeds that you plant."];
+  
+  export default quotes;
